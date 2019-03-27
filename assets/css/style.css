@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One:100,200,300,400,500,600,700|Source+Sans+Pro:100,200,300,400,500,600,700');
+
+/*----------------COLORS---------*/
+
+.bg-logo {
+    background-color: black;
+    
+}
+
+.bg-menu {
+    background-color: black;
+    
+}
+
+.button-bg-color {
+    background-color: black;
+}
+
+/*----------------FONTS----*/
+
+.buttonfont {
+    font-family: 'Germania One', cursive;
+    
+}
+
+header {
+    margin: 0;
+    max-width: 100%;
+}
+
+
+
+.mainlogo {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menu-container {
+    font-size: 0;
+}
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    font-size: 30px;
+    text-align: center;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    height: 100%;
+}
+
+.menuitem span {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+   
+}
