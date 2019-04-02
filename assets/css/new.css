@@ -3,25 +3,34 @@
 /*----------------COLORS---------*/
 
 .bg-logo {
-    background-color: black;
+    background-color: blue;
+background: rgba(0, 0, 0, 0.0);
     
 }
 
 .bg-menu {
-    background-color: black;
-    
+    background-color: blue;
+   background: rgba(0, 0, 0, 0.0);
 }
 
 .button-bg-color {
-    background-color: black;
+    background-color: blue;
+  background: rgba(0, 0, 0, 0.0);
 }
+
+
 
 /*----------------FONTS----*/
 
 .buttonfont {
     font-family: 'Germania One', cursive;
-    
+    margin: 0;
+    padding-bottom: 0;
+    color: white;
+    text-shadow: -1px 0 darkred, 0 1px darkred, 1px 0 darkred, 0 -1px darkred;
 }
+
+
 
 header {
     margin: 0;
@@ -35,11 +44,14 @@ header {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    max-width: 200px;
 }
 
 
 .list-inline-item:not(:last-child) {
     margin: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .menu-container {
@@ -48,11 +60,19 @@ header {
 
 #nav {
     margin: 0;
+    padding-bottom: 0;
 }
 
 #nav li {
     font-size: 30px;
     text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.menuitem {
+    margin-bottom: 0;
+    padding: 0;
 }
 
 .menuitem a {
@@ -60,10 +80,21 @@ header {
     text-decoration: none;
     color: white;
     height: 100%;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .menuitem span {
     text-transform: uppercase;
     letter-spacing: 1px;
-   
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+html { 
+  background: url(../images/yellowcurtains.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
