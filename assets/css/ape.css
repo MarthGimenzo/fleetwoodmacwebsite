@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Germania+One:100,200,300,400,500,600,700|Source+Sans+Pro:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Germania+One:100,200,300,400,500,600,700|Bitter:100,200,300,400,500,600,700');
 
 /*----------------COLORS---------*/
 
 .bg-logo {
     background-color: blue;
-background: rgba(0, 0, 0, 0.5);
-    
+    background: rgba(0, 0, 0, 0.5);
+
 }
 
 .bg-menu {
     background-color: blue;
-   background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .button-bg-color {
     background-color: blue;
-  background: rgba(0, 0, 0, 0.0);
+    background: rgba(0, 0, 0, 0.0);
 }
 
 
@@ -31,8 +31,25 @@ background: rgba(0, 0, 0, 0.5);
 }
 
 .footerfont {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Bitter', serif;
     color: white;
+    font-size: larger;
+}
+
+.sectiontext {
+
+    font-family: 'Bitter', serif;
+    color: black;
+    font-size: larger;
+
+}
+
+h1 {
+    font-family: 'Germania One', cursive;
+    color: white;
+    text-shadow: -1px 0 darkred, 0 1px darkred, 1px 0 darkred, 0 -1px darkred;
+    text-transform: capitalize;
+    font-size: xxx-large;
 }
 
 header {
@@ -94,12 +111,12 @@ header {
     padding-bottom: 0;
 }
 
-html { 
-  background: url(../images/background.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+html {
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 body {
@@ -110,16 +127,16 @@ body {
     padding-top: 150px;
     padding-left: 50px;
     background-color: transparent;
-    
+
 }
 
 @media screen and (max-width: 767px) {
-  .sectionplacement {
-    padding-top: 350px;
-    padding-left: 20px;
-    background-color: transparent;
-    
-}
+    .sectionplacement {
+        padding-top: 350px;
+        padding-left: 20px;
+        background-color: transparent;
+
+    }
 }
 
 
