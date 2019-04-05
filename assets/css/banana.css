@@ -5,7 +5,7 @@
 .bg-logo {
     background-color: blue;
     background: rgba(0, 0, 0, 0.5);
-
+    
 }
 
 .bg-menu {
@@ -27,7 +27,7 @@
     margin: 0;
     padding-bottom: 0;
     color: white;
-    text-shadow: -1px 0 darkred, 0 1px darkred, 1px 0 darkred, 0 -1px darkred;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .footerfont {
@@ -57,14 +57,17 @@ header {
     max-width: 100%;
 }
 
-
+/*---------------TOP LOGO PROPERTIES----*/
 
 .mainlogo {
     position: relative;
     top: 50%;
     left: 50%;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     transform: translate(-50%, -50%);
-    max-width: 200px;
+    max-width: 103%;
 }
 
 
@@ -111,12 +114,16 @@ header {
     padding-bottom: 0;
 }
 
-html {
-    background: url(../images/background.jpg) no-repeat center center fixed;
+.home-section {
+    background: url(../images/Fleetwoodback4.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.media-section {
+    background-color: darkred;
 }
 
 body {
@@ -146,4 +153,30 @@ body {
 
 .footerright {
     text-align: right;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+@media screen and (max-width: 767px) {
+    .fixed-top {
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
 }
