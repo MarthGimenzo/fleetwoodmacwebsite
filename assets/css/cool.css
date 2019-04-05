@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Germania+One:100,200,300,400,500,600,700|Bitter:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab:700|Bitter:100,200,300,400,500,600,700');
 
 /*----------------COLORS---------*/
 
@@ -23,7 +23,7 @@
 /*----------------FONTS----*/
 
 .buttonfont {
-    font-family: 'Germania One', cursive;
+    font-family: 'Josefin Slab', serif;
     margin: 0;
     padding-bottom: 0;
     color: white;
@@ -45,11 +45,11 @@
 }
 
 h1 {
-    font-family: 'Germania One', cursive;
+    font-family: 'Josefin Slab', serif;
     color: white;
     text-shadow: -1px 0 darkred, 0 1px darkred, 1px 0 darkred, 0 -1px darkred;
     text-transform: capitalize;
-    font-size: xxx-large;
+    font-size: xx-large;
 }
 
 header {
@@ -68,6 +68,7 @@ header {
     padding-right: 15px;
     transform: translate(-50%, -50%);
     max-width: 103%;
+    
 }
 
 
@@ -130,7 +131,7 @@ body {
     background-color: transparent;
 }
 
-.sectionplacement {
+.sectionplacement1 {
     padding-top: 150px;
     padding-left: 50px;
     background-color: transparent;
@@ -138,7 +139,7 @@ body {
 }
 
 @media screen and (max-width: 767px) {
-    .sectionplacement {
+    .sectionplacement1 {
         padding-top: 350px;
         padding-left: 20px;
         background-color: transparent;
@@ -146,6 +147,12 @@ body {
     }
 }
 
+.sectionplacement2 {
+    padding-top: 20px;
+    padding-left: 50px;
+    
+
+}
 
 .footercenter {
     text-align: center;
