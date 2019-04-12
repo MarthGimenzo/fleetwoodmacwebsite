@@ -1,5 +1,34 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab:700|Josefin+Sans:600|Fjalla+One|Libre+Franklin:400,600');
 
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+@media screen and (max-width: 767px) {
+    .fixed-top {
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+}
+
 /*----------------COLORS---------*/
 
 .bg-logo {
@@ -70,7 +99,25 @@ header {
     max-width: 100%;
 }
 
-/*---------------TOP LOGO PROPERTIES----*/
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    
+    margin: 1em 0;
+    padding: 0;
+}
+
+.hrred {
+    border-top: 3px solid darkred;
+}
+
+.hryellow {
+    border-top: 3px solid #fdf2c8;
+    
+}
+
+/*TOP LOGO PROPERTIES----*/
 
 .mainlogo {
     position: relative;
@@ -78,7 +125,8 @@ header {
     left: 50%;
     padding-top: 15px;
     padding-left: 15px;
-    padding-right: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
     transform: translate(-50%, -50%);
     max-width: 103%;
 
@@ -86,21 +134,14 @@ header {
 
 /*---------------BUTTON GROUP----*/
 
-@media screen and (max-width: 767px) {
-    .fixed-top {
-        position: absolute;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: 1030;
-    }
-}
+
 
 
 .list-inline-item:not(:last-child) {
     margin: 0;
     margin-bottom: 0;
     padding-bottom: 0;
+    
 }
 
 .menu-container {
@@ -110,6 +151,7 @@ header {
 #nav {
     margin: 0;
     padding-bottom: 0;
+    padding-right: 25px;
 }
 
 #nav li {
@@ -131,6 +173,7 @@ header {
     height: 100%;
     margin-bottom: 0;
     padding-bottom: 0;
+    
 }
 
 .menuitem span {
@@ -140,6 +183,24 @@ header {
     padding-bottom: 0;
 }
 
+.btn-outline-danger {
+    color: darkred;
+    background-color: #fdf2c8;
+    background-image: none;
+    border-color: darkred;
+}
+
+.btn-outline-danger:hover {
+    color: #fdf2c8;
+    background-color: darkred;
+    border-color: #fdf2c8;
+}
+
+.centerbutton {
+    
+    margin: 0 auto;
+    display: block;
+}
 
 /*---------------HOME SECTION----*/
 
@@ -274,20 +335,4 @@ body {
     margin-left: auto;
 }
 
-.fixed-top {
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-}
 
-@media screen and (max-width: 767px) {
-    .fixed-top {
-        position: absolute;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: 1030;
-    }
-}
