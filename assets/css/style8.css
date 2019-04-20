@@ -239,9 +239,9 @@ hr {
 .penguins {
 
     position: relative;
-   
+
     text-align: center;
-    
+
     max-width: 103%;
     margin-left: 20%;
 }
@@ -249,13 +249,13 @@ hr {
 @media screen and (max-width: 1200px) {
     .penguins {
 
-    position: relative;
-   
-    text-align: center;
-    margin-top: 15px;
-    margin-left: 10%;
-    max-width: %;
-}
+        position: relative;
+
+        text-align: center;
+        margin-top: 15px;
+        margin-left: 10%;
+        max-width: %;
+    }
 }
 
 .media-section {
@@ -274,7 +274,7 @@ hr {
 
 .moviealign {
     text-align: center;
-    
+
 }
 
 .outnow {
@@ -293,7 +293,7 @@ hr {
     padding: 5px;
     width: 110px;
     margin: 0 auto;
-    
+
 }
 
 .gallery img:hover {
@@ -342,7 +342,7 @@ hr {
 .sectionplacement4 {
     padding-top: 20px;
 
-    
+
     padding-bottom: 50px;
     background-color: darkred;
 
@@ -350,6 +350,12 @@ hr {
 
 body {
     background-color: transparent;
+}
+
+.tourborder {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #fdf2c8;
 }
 
 
@@ -375,6 +381,11 @@ body {
         padding-top: 350px;
 
     }
+}
+
+.member {
+    max-width: 100px;
+    text-align: right;
 }
 
 /*--------------FOOTER----*/
