@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab:700|Josefin+Sans:600|Fjalla+One|Libre+Franklin:400,600');
 
-
+html {
+    scroll-behavior: smooth;
+}
 
 
 
@@ -416,11 +418,13 @@ input {
 
 .footerfont {
     
-    position: initial;
-    bottom: 0;
+    position: relative;
+    margin-top: -5em;
+    bottom: 0px;
     left: 0;
     background-color: black;
-    background: rgba(0, 0, 0, 0.3)
+    background: rgba(0, 0, 0, 0.1)
+    
     
        
     
