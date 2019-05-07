@@ -4,6 +4,9 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    overflow-x: hidden;
+}
 
 
 .fixed-top {
@@ -201,7 +204,7 @@ hr {
 
     margin: 0 auto;
     display: block;
-    max-width: 40%;
+    max-width: 70%;
 }
 
 /*---------------HOME SECTION----*/
@@ -245,21 +248,12 @@ hr {
 
     text-align: center;
 
-    max-width: 103%;
+    max-width: 170px;
     margin-left: 20%;
+    margin-top: 100px;
 }
 
-@media screen and (max-width: 1200px) {
-    .penguins {
 
-        position: relative;
-
-        text-align: center;
-        margin-top: 15px;
-        margin-left: 10%;
-        max-width: %;
-    }
-}
 
 .media-section {
     background-image: url(../images/Background7.jpg);
@@ -281,6 +275,10 @@ hr {
 }
 
 .outnow {
+    text-align: center;
+}
+
+.ytp-cued-thumbnail-overlay-image {
     text-align: center;
 }
 
@@ -317,17 +315,7 @@ hr {
 
 }
 
-@media screen and (max-width: 769px) {
-    .sectionplacement3 {
-        background: url(../images/background.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        padding-top: 350px;
 
-    }
-}
 
 .justifytext {
     text-align: justify;
@@ -338,6 +326,11 @@ hr {
     max-width: 100px;
     text-align: right;
     border-radius: 5%;
+    
+}
+
+.padmember {
+    padding-bottom: 20px;
 }
 
 /*---------------TOUR SECTION----*/
@@ -377,20 +370,11 @@ body {
     -o-background-size: cover;
     background-size: cover;
     padding-top: 20px;
+    
 
 }
 
-@media screen and (max-width: 769px) {
-    .sectionplacement5 {
-        background: url(../images/background.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        padding-top: 350px;
 
-    }
-}
 
 input {
     width: 100%;
@@ -417,13 +401,17 @@ input {
 /*--------------FOOTER----*/
 
 .footerfont {
-    
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     position: relative;
-    margin-top: -5em;
+    
     bottom: 0px;
     left: 0;
-    background-color: black;
-    background: rgba(0, 0, 0, 0.1)
+    
+    background: rgba(0, 0, 0, 0.5)
     
     
        
@@ -435,24 +423,25 @@ input {
 }
 
 .footerright {
-    text-align: right;
+    
+    padding-top: 40px;
 }
 
 .social-links {
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
+    width: 50px;
+    height: 50px;
+    padding: 22px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 30px;
     line-height: 7px;
     text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
+    color: darkred;
+    background: #fdf2c8;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -461,4 +450,23 @@ input {
 }
 
 .social-links li a i:hover {
-    background-color: #e84610;
+    background-color: #ffffff;
+}
+
+.rights {
+    margin-top: 100px;
+    position: relative;
+    
+}
+
+#box1 {
+    float: left;
+    
+    
+    
+    
+    
+    
+    position: relative;
+}
+}
