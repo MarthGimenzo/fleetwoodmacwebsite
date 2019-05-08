@@ -25,10 +25,10 @@ Visitors were segmented into two types:
 
 ### User Stories
 
-1. Fan visitors want to see and hear clips from the back catalog of the band;
-2. Fan visitors want to see new material and releases;
-3. Fan visitors want to learn about new tour dates;
-4. Fan visitors want to book Fleetwood Mac for an event;
+1. Fan users want to see and hear clips from the back catalog of the band;
+2. Fan users want to see new material and releases;
+3. Fan users want to learn about new tour dates;
+4. Fan users want to book Fleetwood Mac for an event;
 
 5. Potential fans want to learn about the band and their identity;
 6. Potential fans want to see and hear clips froom the back catalog of the band;
@@ -60,6 +60,7 @@ Visitors were segmented into two types:
 - Media section - Updates visitor about Fleetwood Mac's new album: '50 Years Don't Stop Fleetwood Mac';
 - Media section - Provides users with the ability to order the new album by clicking a button;
 - Media section - Provides user of a gallery with 9 clickable pictures. The picture enlarges when clicked;
+- Media section - Provides user with a music player on large desktops;
 - Band section - Provides user of information about the band Fleetwood Mac;
 - Band section - Provides user of pictures of the band members and their names;
 - Tour section - Provides user of information about Fleetwood Mac's new tour;
@@ -80,20 +81,64 @@ Visitors were segmented into two types:
 - Provide user with additional updates about the band on the home page;
 - Provide the user with a larger, more extended gallery on the media page (or separate page);
 - Provide the user with pictures of the band members to become clickable so that a modal shows more information about the band member;
-- Provide the user with audio clips to listen in the media section;
+
 
 ## Technologies Used
 
 - HTML
-    - HTML DJD
- - HTML provided the structure of the page;
- 
-
+    - HTML for the structure of the of the website.
+- CSS
+    - CSS for the styling of the website.
+- Javascript
+    - Javascript was used to make the website more interactive.
+- Google Chrome
+    - Developer Tools.
+- Balsamiq
+    - Used for creating mockups.
+- Photoshop
+    - Used for editing backgrounds and pictures.
+- Bootstrap
+    - Used for frameworks.
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-
-
+- Font Awesome
+    - Used for implementing icons.
+- Google Fonts
+     - Fonts were implemented using Google Fonts.
+- Youtube
+     - YouTube was used for embedding a video.
+- SoundCloud
+     - SoundCloud was used for embedding a music player.
+- Cloud9
+    - The website was built in Cloud9.
+- Git
+    - Git was used for version control.
+- GitHub
+    - The repository is hosted on GitHub.
+- GitHub Pages
+    - The website is hosted on GitHub Pages.
+- W3C Markup Validation Service
+    - Used to check if the website has any errors.
+ 
 ## Testing
+
+1. Fan visitors want to see and hear clips from the back catalog of the band;
+    1. When clicked on the 'media' button at the top of the page the browser will scroll to the 'media' section.
+    2. The user will immediately see an embedded YouTube movie containing music from Fleetwood Mac's newest album: '50 Years Don't Stop Fleetwood Mac'.
+    3. When in desktop mode, the user will be able to listen to audio clips using an embedded SoundCloud frame. Viewing both the embedded YouTube video and the SoundCloud audio player on smaller devices will lower the quality of the user experience. Therefore the SoundCloud music player will not be visible on smaller devices.
+2. Fan visitors want to see new material and releases;
+    1. When clicked on the 'media' button at the top of the page the browser will scroll to the 'media' section.
+    2. When in desktop mode, the user will be able to listen to audio clips using an embedded SoundCloud frame. Viewing both the embedded YouTube video and the SoundCloud audio player on smaller devices will lower the quality of the user experience. Therefore the SoundCloud music player will not be visible on smaller devices.
+3. Fan visitors want to learn about new tour dates;
+    1. When initially visiting the website, the browser will ask the user to share their location.
+    2. When clicked on the 'Tour' button or the 'More info' button on the homepage, the browser will scroll to the 'tour' section.
+    3. Beneath the information about the tour, the user finds a widget from 'Bandsintown' that provides the user with information about upcoming performances of Fleetwood Mac. 
+    4. When clicked on a 'Tickets & More' tab, the user will be redirected to a page containing additional information.
+4. Fan visitors want to book Fleetwood Mac for an event;
+    1.
+5. Potential fans want to learn about the band and their identity;
+6. Potential fans want to see and hear clips froom the back catalog of the band;
+7. Potential fans want to book Fleetwood Mac for an event.
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
