@@ -37,10 +37,10 @@ Visitors were segmented into two types:
 ### Mock Ups
 
 - [Home](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Home.png)
-- [Home](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Media.png)
-- [Home](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Band.png)
-- [Home](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Tour.png)
-- [Home](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Booking.png)
+- [Media](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Media.png)
+- [The Band](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Band.png)
+- [Tour](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Tour.png)
+- [Booking](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Booking.png)
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
