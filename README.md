@@ -85,6 +85,7 @@ Visitors were segmented into two types:
 ## Technologies Used
 
 - HTML
+    - HTML DJD
  - HTML provided the structure of the page;
  
 
