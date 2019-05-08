@@ -42,8 +42,6 @@ Visitors were segmented into two types:
 - [Tour](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Tour.png)
 - [Booking](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Booking.png)
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
 ### Design
 
 - Primary colors were derived from the colors of Fleetwood Mac's new tour promotion;
@@ -55,15 +53,29 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Existing features and features left to implement.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+- A menu at the top of the website with clickable links. Smooth scrolling to the section when clicked;
+- Home section - Updates visitor about the newly announced tour of Fleetwood Mac;
+- Media section - Updates visitor about Fleetwood Mac's new album: '50 Years Don't Stop Fleetwood Mac';
+- Media section - Provides users with the ability to order the new album by clicking a button;
+- Media section - Provides user of a gallery with 9 clickable pictures. The picture enlarges when clicked;
+- Band section - Provides user of information about the band Fleetwood Mac;
+- Band section - Provides user of pictures of the band members and their names;
+- Tour section - Provides user of information about Fleetwood Mac's new tour;
+- Tour section - Provides user of accurate tour dates and locations of Fleetwood Mac using a widget from 'Bandsintown';
+- Booking section - Provides user with the ability to book Fleetwood Mac by filling in a form and sending it;
+- Footer section - Provides user with links to Social Media Websites of Fleetwood Mac;
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Documentation - The ReadMe file and Mockups;
+- Responsive design;
+- Accessibility - Simple transactions of information;
+- Branding;
+- Compelling headlines;
+- Git Version Control;
+- Hosted on GitHub pages;
 
 ### Features Left to Implement
 - Another feature idea
