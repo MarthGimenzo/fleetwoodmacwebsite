@@ -239,7 +239,7 @@ hr {
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
-        padding-top: 350px;
+        padding-top: 370px;
 
     }
 }
@@ -255,6 +255,10 @@ hr {
 
 /*---------------MEDIA SECTION----*/
 
+iframe {
+    max-width: 100%;
+}
+
 .penguins {
 
     position: relative;
@@ -263,7 +267,7 @@ hr {
 
     max-width: 170px;
     margin-left: 20%;
-    margin-top: 100px;
+    margin-top: 120px;
 }
 
 
@@ -284,6 +288,7 @@ hr {
 
 .moviealign {
     text-align: center;
+    max-width: 100%;
 
 }
 
@@ -373,7 +378,7 @@ body {
     border-width: 3px;
     border-style: solid;
     border-color: #fdf2c8;
-    max-width: 50%;
+    max-width: 80%;
     margin: auto;
 }
 
@@ -489,4 +494,4 @@ input {
     float: left;
     position: relative;
 }
-}
+
