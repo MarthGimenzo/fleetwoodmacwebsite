@@ -52,8 +52,6 @@ Visitors were segmented into two types:
 -- font-family: 'Fjalla One', sans-serif;
 
 ## Features
-
-Existing features and features left to implement.
  
 ### Existing Features
 
@@ -78,7 +76,11 @@ Existing features and features left to implement.
 - Hosted on GitHub pages;
 
 ### Features Left to Implement
-- Another feature idea
+
+- Provide user with additional updates about the band on the home page;
+- Provide the user with a larger, more extended gallery on the media page (or separate page);
+- Provide the user with pictures of the band members to become clickable so that a modal shows more information about the band member;
+- Provide the user with audio clips to listen in the media section;
 
 ## Technologies Used
 
