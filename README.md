@@ -36,7 +36,7 @@ Visitors were segmented into two types:
 
 ### Mock Ups
 
-https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Home.png
+[Home](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Home.png)
 ![Image of Yaktocat](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Media.png)
 ![Image of Yaktocat](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Band.png)
 ![Image of Yaktocat](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Tour.png)
