@@ -23,7 +23,7 @@ Visitors were segmented into two types:
 - Fans
 - Potential Fans
 
-## User Stories
+# User Stories
 
 1. Fan visitors want to see and hear clips from the back catalog of the band;
 2. Fan visitors want to see new material and releases;
@@ -34,7 +34,7 @@ Visitors were segmented into two types:
 6. Potential fans want to see and hear clips froom the back catalog of the band;
 7. Potential fans want to book Fleetwood Mac for an event.
 
-## Mock Ups
+# Mock Ups
 
 ![Image of Yaktocat](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Home.png)
 ![Image of Yaktocat](https://github.com/MarthGimenzo/fleetwoodmacsite/blob/master/assets/images/Mockups/Media.png)
