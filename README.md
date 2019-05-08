@@ -162,6 +162,7 @@ The website is hosted on GitHub Pages.
 
 The root folder should contain the following:
 
+???????????????
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
@@ -176,10 +177,26 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
+- The text in the 'Home' section was copied from the [Official Website Fleetwood Mac](https://www.fleetwoodmac.com/)
+- The text in the 'The Band' section was copied from the [Official Website Fleetwood Mac](https://www.fleetwoodmac.com/)
+- The text in the 'Tour' section was copied from the [Official Website Fleetwood Mac](https://www.fleetwoodmac.com/)
+- The tour information in the 'Tour' section was comes from the [Bandsintown Widget](https://www.bandsintown.com/)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photo of the band used in the 'Home' section was obtained from [Hamptonpool](https://www.hamptonpool.co.uk/concerts/spc-2018/rumours-of-fleetwood-mac.php) and was edited in Photoshop.
+- The video used in the 'Media' section was obtained from [YouTube](https://www.youtube.com/channel/UCAb60rVrvVQVfSgrX1UWb0g).
+- The illustration of the penguins used in the 'Media' section was obtained from [RedBubble](https://www.redbubble.com/people/destinyrulesx/works/32437686-fleetwood-mac-style-penguin) and was edited in Photoshop.
+- The music used in the 'Media' section was obtained from [SoundCloud](https://soundcloud.com/fleetwoodmacofficial).
+- The first photo of the gallery in the 'Media' section was obtained from [Fleetwood Mac Twitter Page](https://twitter.com/Nickslive).
+- The second photo of the gallery in the 'Media' section was obtained from [Sonar Twitter Page](https://twitter.com/sonarfm).
+- The third photo of the gallery in the 'Media' section was obtained from [NY Post](https://nypost.com/2019/03/12/stevie-nicks-leads-the-way-as-fleetwood-mac-rocks-msg/).
+- The fourth photo of the gallery in the 'Media' section was obtained from [YardBarker](https://www.yardbarker.com/entertainment/articles/the_ultimate_2019_rock_and_roll_hall_of_fame_inductees_playlist/s1__28728767).
+- The fifth photo of the gallery in the 'Media' section was obtained from [Discogs](https://www.discogs.com/Fleetwood-Mac-Gold-Dust-Radio-The-Legendary-Broadcasts/release/10180185).
+- The sixth photo of the gallery in the 'Media' section was obtained from [Rotown](https://www.rotown.nl/agenda/the-cosmic-carnival-plays-fleetwood-mac/).
+- The seventh photo of the gallery in the 'Media' section was obtained from [Ntd](https://mb.ntd.com/fleetwood-mac-cancels-jazz-fest-other-dates-due-to-illness_314634.html).
+- The eighth photo of the gallery in the 'Media' section was obtained from [Fleetwoodmacnews](http://www.fleetwoodmacnews.com/2013/07/videos-gypsy-and-stand-back.html).
+- The ninth photo of the gallery in the 'Media' section was obtained from [Yuweng](http://www.yuweng.info/so-how-long-is-the-fleetwood-mac-concert-2018-908984106/).
 
 ### Acknowledgements
 
