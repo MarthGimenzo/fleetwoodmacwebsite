@@ -31,7 +31,7 @@ Visitors were segmented into two types:
 4. Fan users want to book Fleetwood Mac for an event;
 
 5. Potential fans want to learn about the band and their identity;
-6. Potential fans want to see and hear clips froom the back catalog of the band;
+6. Potential fans want to see and hear clips from the back catalog of the band;
 7. Potential fans want to book Fleetwood Mac for an event.
 
 ### Mock Ups
@@ -127,36 +127,29 @@ Visitors were segmented into two types:
     2. The user will immediately see an embedded YouTube movie containing music from Fleetwood Mac's newest album: '50 Years Don't Stop Fleetwood Mac'.
     3. When in desktop mode, the user will be able to listen to audio clips using an embedded SoundCloud frame. Viewing both the embedded YouTube video and the SoundCloud audio player on smaller devices will lower the quality of the user experience. Therefore the SoundCloud music player will not be visible on smaller devices.
 2. Fan visitors want to see new material and releases;
-    1. When clicked on the 'media' button at the top of the page the browser will scroll to the 'media' section.
+    1. When clicked on the 'Media' button at the top of the page the browser will scroll to the 'media' section.
     2. When in desktop mode, the user will be able to listen to audio clips using an embedded SoundCloud frame. Viewing both the embedded YouTube video and the SoundCloud audio player on smaller devices will lower the quality of the user experience. Therefore the SoundCloud music player will not be visible on smaller devices.
 3. Fan visitors want to learn about new tour dates;
     1. When initially visiting the website, the browser will ask the user to share their location.
-    2. When clicked on the 'Tour' button or the 'More info' button on the homepage, the browser will scroll to the 'tour' section.
+    2. When clicked on the 'Tour' button at the top of the page or the 'More info' button on the homepage, the browser will scroll to the 'tour' section.
     3. Beneath the information about the tour, the user finds a widget from 'Bandsintown' that provides the user with information about upcoming performances of Fleetwood Mac. 
     4. When clicked on a 'Tickets & More' tab, the user will be redirected to a page containing additional information.
 4. Fan visitors want to book Fleetwood Mac for an event;
-    1.
+    1. When clicked on the 'Booking' button ath the top of the page the browser will scroll to the 'Booking' section.
+    2. The user will be able to fill a form asking for the necessary information.
+    3. All forms except the 'Comment' form should be filled. The email form should be a valid email adress. Only numbers can be submitted at the 'Mobile' form. Should the user not fill in the form correctly, the browser will notify the user.
+    4. The 'Send' button is not working yet.
 5. Potential fans want to learn about the band and their identity;
-6. Potential fans want to see and hear clips froom the back catalog of the band;
+    1. When clicked on the 'The Band' button ath the top of the page the browser will scroll to the 'The Band' section.
+    2. The section will provide the user with information about the band.
+6. Potential fans want to see and hear clips from the back catalog of the band;
+    1. When clicked on the 'media' button at the top of the page the browser will scroll to the 'media' section.
+    2. The user will immediately see an embedded YouTube movie containing music from Fleetwood Mac's newest album: '50 Years Don't Stop Fleetwood Mac'.
 7. Potential fans want to book Fleetwood Mac for an event.
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+    1. When clicked on the 'Booking' button ath the top of the page the browser will scroll to the 'Booking' section.
+    2. The user will be able to fill a form asking for the necessary information.
+    3. All forms except the 'Comment' form should be filled. The email form should be a valid email adress. Only numbers can be submitted at the 'Mobile' form. Should the user not fill in the form correctly, the browser will notify the user.
+    4. The 'Send' button is not working yet.
 
 ## Deployment
 
