@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab:700|Josefin+Sans:600|Fjalla+One|Libre+Franklin:400,600');
 
+/* Copyright (c) 2019, Santiago Orozco,
+with Reserved Font Name Josefin Slab & Josefin Sans
+
+Copyright (c) 2019, Sorkin Type,
+with Reserved Font Name Fjalla One
+
+Copyright (c) 2019, Impallari Type,
+with Reserved Font Name Libre Franklin
+
+Copyright (c) 2011-2018 Twitter, Inc.
+Copyright (c) 2011-2018 The Bootstrap Authors
+*/
+
 html {
     scroll-behavior: smooth;
 }
@@ -204,7 +217,7 @@ hr {
 
     margin: 0 auto;
     display: block;
-    max-width: 70%;
+    max-width: 80%;
 }
 
 /*---------------HOME SECTION----*/
@@ -327,10 +340,12 @@ hr {
     text-align: right;
     border-radius: 5%;
     
+    
 }
 
 .padmember {
     padding-bottom: 20px;
+    color: darkred;
 }
 
 /*---------------TOUR SECTION----*/
@@ -358,6 +373,8 @@ body {
     border-width: 3px;
     border-style: solid;
     border-color: #fdf2c8;
+    max-width: 50%;
+    margin: auto;
 }
 
 
@@ -411,7 +428,7 @@ input {
     bottom: 0px;
     left: 0;
     
-    background: rgba(0, 0, 0, 0.5)
+    
     
     
        
@@ -420,11 +437,18 @@ input {
 
 .footercenter {
     text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    
 }
 
 .footerright {
     
     padding-top: 40px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.footerleft {
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .social-links {
@@ -454,19 +478,15 @@ input {
 }
 
 .rights {
-    margin-top: 100px;
+    margin-top: 40px;
+    
     position: relative;
+    
     
 }
 
 #box1 {
     float: left;
-    
-    
-    
-    
-    
-    
     position: relative;
 }
 }
