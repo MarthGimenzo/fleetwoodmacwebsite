@@ -44,6 +44,15 @@ Visitors were segmented into two types:
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
+### Design
+
+- Primary colors were derived from the colors of Fleetwood Mac's new tour promotion;
+- The '50 Years of Fleetwood Mac' logo was used and edited in Photoshop, changing the color to white and adding a black border around the edges of the logo.
+- Fonts were used from Google Fonts. The following fonts were used:
+-- font-family: 'Josefin Slab', serif;
+-- font-family: 'Bitter', serif;
+-- font-family: 'Fjalla One', sans-serif;
+
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
