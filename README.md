@@ -1,15 +1,42 @@
-# Your Project's Name
+# Website Fleetwood Mac
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+This an informative website about the band Fleetwood Mac. It's a clean, easy to overview website that provides visitors with information about Fleetwood Mac. Visitors can learn about their new European tour, view gallery pictures and other media, learn about the band and book the band for events. The website also provides links to Fleetwood Mac's Facebook, Twitter, Soundcloud, Instragram and YouTube pages. The website is hosted on GitHub Pages Repository on Github.
  
 ## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+Goals of the band Fleetwood Mac
+
+-	Fleetwood Mac wants to showcase new material and releases;
+-	The ability to book them for events such as weddings or parties;
+-	Include/showcase photo’s of members of the band;
+-	Include/showcase video’s and audio clips of the band;
+-	Include links to their social media websites: Facebook, Twitter, Soundcloud, Instagram YouTube;
+
+Goals of the user
+
+-	To see and hear clips from the back catalog of the band;
+-	To see new material and releases;
+-	Tour dates.
+
+Visitors were segmented into two types:
+
+- Fans
+- Potential Fans
+
+## User Stories
+
+1. Fan visitors want to see and hear clips from the back catalog of the band;
+2. Fan visitors want to see new material and releases;
+3. Fan visitors want to learn about new tour dates;
+4. Fan visitors want to book Fleetwood Mac for an event;
+
+5. Potential fans want to learn about the band and their identity;
+6. Potential fans want to see and hear clips froom the back catalog of the band;
+7. Potential fans want to book Fleetwood Mac for an event.
+
+## Mock Ups
+
+/assets/images/Mockups/Band.png
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
