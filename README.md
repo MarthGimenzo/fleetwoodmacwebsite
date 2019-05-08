@@ -81,6 +81,7 @@ Visitors were segmented into two types:
 - Provide user with additional updates about the band on the home page;
 - Provide the user with a larger, more extended gallery on the media page (or separate page);
 - Provide the user with pictures of the band members to become clickable so that a modal shows more information about the band member;
+- Make the 'Send' button in the 'Booking' section of the page working.
 
 
 ## Technologies Used
@@ -152,6 +153,15 @@ Visitors were segmented into two types:
     4. The 'Send' button is not working yet.
 
 ## Deployment
+
+The website is hosted on GitHub Pages.
+
+- A new project was started in Cloud9;
+- A GitHub repository was created;
+- 
+
+The root folder should contain the following:
+
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
