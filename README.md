@@ -82,6 +82,7 @@ Visitors were segmented into two types:
 - Provide the user with a larger, more extended gallery on the media page (or separate page);
 - Provide the user with pictures of the band members to become clickable so that a modal shows more information about the band member;
 - Make the 'Send' button in the 'Booking' section of the page working.
+- Better compressing of the images so the website will load faster.
 
 
 ## Technologies Used
@@ -197,6 +198,14 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The seventh photo of the gallery in the 'Media' section was obtained from [Ntd](https://mb.ntd.com/fleetwood-mac-cancels-jazz-fest-other-dates-due-to-illness_314634.html).
 - The eighth photo of the gallery in the 'Media' section was obtained from [Fleetwoodmacnews](http://www.fleetwoodmacnews.com/2013/07/videos-gypsy-and-stand-back.html).
 - The ninth photo of the gallery in the 'Media' section was obtained from [Yuweng](http://www.yuweng.info/so-how-long-is-the-fleetwood-mac-concert-2018-908984106/).
+
+- The photo of Stevie Nicks in the 'Band' section was obtained from [The Cut](https://www.thecut.com/2019/02/stevie-nicks-shawl-vault.html).
+- The photo of Mick Fleetwood in the 'Band' section was obtained from [Wikipedia](https://en.wikipedia.org/wiki/Mick_Fleetwood).
+- The photo of Christine Mc Vie in the 'Band' section was obtained from [Rollingstone](https://www.rollingstone.com/music/music-features/christine-mcvie-on-fleetwood-macs-peculiar-mirage-sessions-new-lp-122885/).
+- The photo of Neil Finn in the 'Band' section was obtained from [Wikippedia](https://en.wikipedia.org/wiki/Neil_Finn).
+- The photo of Mike Campbell in the 'Band' section was obtained from [Wikipedia](https://en.wikipedia.org/wiki/Mike_Campbell_(musician)).
+- The photo of John Mc Vie in the 'Band' section was obtained from [Wikipedia](https://en.wikipedia.org/wiki/John_McVie).
+
 
 ### Acknowledgements
 
