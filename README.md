@@ -144,6 +144,7 @@ Visitors were segmented into two types:
 5. Potential fans want to learn about the band and their identity;
     1. When clicked on the 'The Band' button ath the top of the page the browser will scroll to the 'The Band' section.
     2. The section will provide the user with information about the band.
+    3. When in desktop mode, the user will see pictures of the bandmembers of Fleetwood Mac. Viewing these photo's on smaller devices will lower the quality of the user experience. Therefore they will not be visible on smaller devices.
 6. Potential fans want to see and hear clips from the back catalog of the band;
     1. When clicked on the 'media' button at the top of the page the browser will scroll to the 'media' section.
     2. The user will immediately see an embedded YouTube movie containing music from Fleetwood Mac's newest album: '50 Years Don't Stop Fleetwood Mac'.
@@ -159,21 +160,7 @@ The website is hosted on GitHub Pages.
 
 - A new project was started in Cloud9;
 - A GitHub repository was created;
-- 
-
-The root folder should contain the following:
-
-???????????????
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
+- The GitHub repository was moved to GitHub Pages;
 
 ## Credits
 
@@ -187,8 +174,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Media
 - The photo of the band used in the 'Home' section was obtained from [Hamptonpool](https://www.hamptonpool.co.uk/concerts/spc-2018/rumours-of-fleetwood-mac.php) and was edited in Photoshop.
 - The video used in the 'Media' section was obtained from [YouTube](https://www.youtube.com/channel/UCAb60rVrvVQVfSgrX1UWb0g).
+
 - The illustration of the penguins used in the 'Media' section was obtained from [RedBubble](https://www.redbubble.com/people/destinyrulesx/works/32437686-fleetwood-mac-style-penguin) and was edited in Photoshop.
+
 - The music used in the 'Media' section was obtained from [SoundCloud](https://soundcloud.com/fleetwoodmacofficial).
+
 - The first photo of the gallery in the 'Media' section was obtained from [Fleetwood Mac Twitter Page](https://twitter.com/Nickslive).
 - The second photo of the gallery in the 'Media' section was obtained from [Sonar Twitter Page](https://twitter.com/sonarfm).
 - The third photo of the gallery in the 'Media' section was obtained from [NY Post](https://nypost.com/2019/03/12/stevie-nicks-leads-the-way-as-fleetwood-mac-rocks-msg/).
@@ -209,4 +199,14 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+I would like to thank the following for inspiration and motivation:
+
+- Fleetwood Mac
+- Code Institute
+- Other students from Code Institute
+- Helga Goudberg
+- Ilva Stoelwinder
+- Pascal van Hamersveld
+- Diederik de Bruin
+- Niels de Bruin
+- Myself :)
