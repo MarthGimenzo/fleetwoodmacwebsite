@@ -203,7 +203,7 @@ As of right now, there are no differences between the development version and th
 
 - The background picture in the 'Home', 'Band' and 'Booking' section was obtained from [Rawpixel](https://images.pexels.com/photos/984541/pexels-photo-984541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) and was edited in Photoshop.
 - The background picture in the 'Media' and 'Tour' section was obtained from the [Album cover of 'Songirds Keep Singing'](https://www.amazon.co.uk/FLEETWOOD-MAC-SONGBIRDS-KEEP-SINGING/dp/B07F2J3YNW) of Fleetwood Mac and was edited in Photoshop.
-- The logo in the background picture in the 'Home' section was obtained from the [Logolynx](https://www.logolynx.com/topic/fleetwood+mac) and was added to the background using Photoshop.
+- The logo in the background picture in the 'Home' section was obtained from [Logolynx](https://www.logolynx.com/topic/fleetwood+mac) and was added to the background using Photoshop.
 
 ### Acknowledgements
 
