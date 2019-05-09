@@ -162,6 +162,8 @@ The website is hosted on GitHub Pages.
 - A GitHub repository was created;
 - The GitHub repository was moved to GitHub Pages;
 
+As of right now, there are no differences between the development version and the deployed version.
+
 ## Credits
 
 ### Content
