@@ -1,6 +1,6 @@
 # Website Fleetwood Mac
 
-This an informative website about the band Fleetwood Mac. It's a clean, easy to overview website that provides visitors with information about Fleetwood Mac. Visitors can learn about their new European tour, view gallery pictures and other media, learn about the band and book the band for events. The website also provides links to Fleetwood Mac's Facebook, Twitter, Soundcloud, Instragram and YouTube pages. The website is hosted on GitHub Pages Repository on Github.
+This an informative website about the band Fleetwood Mac. It's a clean, easy to overview website that provides visitors with information about Fleetwood Mac. Visitors can learn about their new European tour, view gallery pictures and other media, learn about the band and book the band for events. The website also provides links to Fleetwood Mac's Facebook, Twitter, Soundcloud, Instragram and YouTube pages. A lot of the graphics on the website were created/edited using Photoshop to have more control over consistincy in contrasts. The website is hosted on GitHub Pages Repository on Github.
  
 ## UX
 
@@ -75,6 +75,7 @@ Visitors were segmented into two types:
 - Compelling headlines;
 - Git Version Control;
 - Hosted on GitHub pages;
+- A Favicon Icon
 
 ### Features Left to Implement
 
@@ -121,6 +122,8 @@ Visitors were segmented into two types:
     - The website is hosted on GitHub Pages.
 - W3C Markup Validation Service
     - Used to check if the website has any errors.
+- Favicon
+    - Favicon was used to replace the icon at the tab of the browser.
  
 ## Testing
 
@@ -198,6 +201,9 @@ As of right now, there are no differences between the development version and th
 - The photo of Mike Campbell in the 'Band' section was obtained from [Wikipedia](https://en.wikipedia.org/wiki/Mike_Campbell_(musician)).
 - The photo of John Mc Vie in the 'Band' section was obtained from [Wikipedia](https://en.wikipedia.org/wiki/John_McVie).
 
+- The background picture in the 'Home', 'Band' and 'Booking' section was obtained from [Rawpixel](https://images.pexels.com/photos/984541/pexels-photo-984541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) and was edited in Photoshop.
+- The background picture in the 'Media' and 'Tour' section was obtained from the [Album cover of 'Songirds Keep Singing'] (https://www.amazon.co.uk/FLEETWOOD-MAC-SONGBIRDS-KEEP-SINGING/dp/B07F2J3YNW) of Fleetwood Mac and was edited in Photoshop.
+- The logo in the background picture in the 'Home' section was obtained from the [Logolynx] (https://www.logolynx.com/topic/fleetwood+mac) and was added to the background using Photoshop.
 
 ### Acknowledgements
 
