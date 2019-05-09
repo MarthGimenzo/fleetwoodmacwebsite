@@ -47,9 +47,9 @@ Visitors were segmented into two types:
 - Primary colors were derived from the colors of Fleetwood Mac's new tour promotion;
 - The '50 Years of Fleetwood Mac' logo was used and edited in Photoshop, changing the color to white and adding a black border around the edges of the logo.
 - Fonts were used from Google Fonts. The following fonts were used:
--- font-family: 'Josefin Slab', serif;
--- font-family: 'Bitter', serif;
--- font-family: 'Fjalla One', sans-serif;
+    - font-family: 'Josefin Slab', serif;
+    - font-family: 'Bitter', serif;
+    - font-family: 'Fjalla One', sans-serif;
 
 ## Features
  
